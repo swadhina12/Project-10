@@ -6,7 +6,7 @@
 ![This is an image](./project.jpg)
 
 ### As a result of this project, I learn the following:
-[LIVE-LINK](https://projectdeveloperlanding.netlify.app/)
+[LIVE-LINK](https://projectinteriordesign.netlify.app/)
 
 - [x] Learned to use background-image with lienar-gradient
 - [x] I learned to use ::after and ::before psuedo element
